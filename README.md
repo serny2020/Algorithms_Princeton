@@ -1,2 +1,2 @@
 # Algorithms_Princeton
-Algorithm in Princeton and CS61B
+Project assignment for courses of Algorithm in Princeton and CS61B
